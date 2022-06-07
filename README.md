@@ -21,14 +21,15 @@ This is the Final Project at USC.
 2. One-Dimensional Convolutional Neural Network (CNN)
 3. Long Short-Term Memory Recurrent Neural Network (RNN)
 
-## Tokenize Model
+## MLP Model
+![data_science](MLP.jpg)
+
+## CNN Model
+![data_science](CNN.jpg)
+
+## RNN Model
 ![data_science](Tokenize_Model.jpg)
 
-## MLP
-
-## CNN
-
-## RNN
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
