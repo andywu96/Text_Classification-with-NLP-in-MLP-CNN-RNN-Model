@@ -21,7 +21,13 @@ This is the Final Project at USC.
 2. One-Dimensional Convolutional Neural Network (CNN)
 3. Long Short-Term Memory Recurrent Neural Network (RNN)
 
+## Tokenize Model
+
+## MLP
+
+## CNN
+
+## RNN
+
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
-## Active Learning vs Passive Learning
-## ROC
