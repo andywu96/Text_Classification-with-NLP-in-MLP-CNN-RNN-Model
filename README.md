@@ -11,22 +11,15 @@
 📫 How to reach me: Email: wuchungm@usc.edu ; Linkedin: www.linkedin.com/in/chungmingwu
 
 
-## Semi-Supervised-Unsupervised-Learning-Spectral-Clustering-and-Active-Learning-Using-SVM 
+## Text Classification with NLP in MLP, CNN, and RNN Model
 
-This is one of the HW assignment at USC, there are 2 quesitons.
+This is the Final Project at USC.
 
-### First, using Monte-Carlo Simulation with 30 runs on Supervised Learning, Semi-Supervised Learning/ Self-training, Unsupervised Learning, and Spectral Clustering in Breast Cancer Wisconsin (Diagnostic) DataSet
+### First, in Data Exploration and Pre-processing, use Word Embeddings with Keras Tensorflow (Tokenize) in 2000 dataset, which include 1000 positive reviews, and 1000 negative reviews. Then, using different model with the Data Set.
 
-1. Supervised Learning - L1-penalized with SVM Model 
-2. Semi-Supervised Learning/ Self-Training - L1-penalized with SVM Model 
-3. K-Means Clustering (K=2) 
-4. Spectral Clustering with RBF kernel 
-5. Using Metrics:  Accuracy, Precision, Recall, F1-score, and AUC
-
-### Second, using Monte-Carlo Simulation with 50 runs on Active Learning and Passive learning models in Banknote authentication Data Set 
-
-6. Passive learning- L1-penalized with SVM Model 
-7. Active learning- L1-penalized with SVM Model 
+1. Multi-Layer Perceptron (MLP)
+2. One-Dimensional Convolutional Neural Network (CNN)
+3. Long Short-Term Memory Recurrent Neural Network (RNN)
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
