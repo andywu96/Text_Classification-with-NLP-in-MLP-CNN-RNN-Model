@@ -22,6 +22,7 @@ This is the Final Project at USC.
 3. Long Short-Term Memory Recurrent Neural Network (RNN)
 
 ## Tokenize Model
+![data_science](Tokenize Model.png)
 
 ## MLP
 
