@@ -30,6 +30,5 @@ This is the Final Project at USC.
 ## RNN Model
 ![data_science](Tokenize_Model.jpg)
 
-
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
